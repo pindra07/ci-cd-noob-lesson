@@ -2,6 +2,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 - Here we're deploying next.js application on AWS EC2
+Also we're learning github actions and CI CD pipeline
 
 First, run the development server:
 
